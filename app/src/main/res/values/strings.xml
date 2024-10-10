@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mapster</string>
+    <string name="welcome_to_lobby">Welcome to Lobby</string>
+    <string name="you_can_create">You can create a lobby or join an existing one.</string>
+    <string name="create_new_lobby">Create New Lobby</string>
+    <string name="join_existing_lobby">Join Existing Lobby</string>
 </resources>
